@@ -20,6 +20,7 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Sécurité de l’Internet des Objets (IdO) : Briefing pour les décideurs politiques](https://www.internetsociety.org/fr/resources/2018/iot-security-for-policymakers/)
  * [Global scan - exposed .git repos](https://lynt.cz/blog/global-scan-exposed-git)
  * [Référentiels et Normes pour l'Audit de la Sécurité des SI ](https://www.slideshare.net/Alghajati/rfrentiels-et-normes-pour-laudit-de-la-scurit-des-si)
+ * [Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)
 
 ## Electronique : 
 
@@ -34,6 +35,7 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [How I Reduced my DB Server Load by 80%](https://www.schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/)
  * [How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC](https://blog.discordapp.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429)
  * [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
+ * [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/)
  
 
 ## Web : 
@@ -53,12 +55,23 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Machine Learning in PostgreSQL Part 1: Kmeans clustering](https://www.cybertec-postgresql.com/en/machine-learning-in-postgresql-part-1-kmeans-clustering/)
  * [How to streaming replication](https://amp.reddit.com/r/PostgreSQL/comments/9fjeoe/postgresql_tutorial_getting_started_with/)
  * [PostgreSQL Configuration Cheat Sheet](https://pgdash.io/blog/postgres-configuration-cheatsheet.html)
- 
+ * [Listen to postgres events and forward them as JSON payloads to a webhook ](https://github.com/hasura/skor)
+ * [My Favorite PostgreSQL Queries and Why They Matter](https://severalnines.com/blog/my-favorite-postgresql-queries-and-why-they-matter)
+ * [SQL/JSON Path language](https://github.com/obartunov/sqljsondoc/blob/master/README.jsonpath.md)
+ * [A Deep Dive into Database Attacks [Part III]: Why Scarlett Johansson's Picture Got My Postgres Database to Start Mining Monero](https://www.imperva.com/blog/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/)
+ * [How to Secure your PostgreSQL Database - 10 Tips](https://severalnines.com/blog/how-secure-your-postgresql-database-10-tips)
+ * [Detecting performance problems easily in PostgreSQL](https://www.cybertec-postgresql.com/en/detecting-performance-problems-easily-in-postgresql/)
+ * [Standard SQL features where PostgreSQL beats its competitors ](https://www.slideshare.net/mobile/MarkusWinand/standard-sql-features-where-postgresql-beats-its-competitors)
+ * [Postgres Hidden Gems](http://www.craigkerstiens.com/2018/01/31/postgres-hidden-gems/)
+ * [SQL most readed articles 2017](https://tapoueh.org/blog/2018/01/a-year-in-review-most-read-articles-in-2017/#sql-and-business-logic)
 
 ## Linux : 
 
  * [Give me 15 minutes and I'll change your view of Linux tracing](https://www.youtube.com/watch?v=GsMs3n8CB6g&app=desktop)
  * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide/blob/master/README.md)
+ * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
+ * [**Interactive map of Linux kernel**](http://www.makelinux.net/kernel_map/)
+ * [For the first time ever, Microsoft will distribute its own version of Linux](https://www.businessinsider.fr/us/microsoft-azure-sphere-is-powered-by-linux-2018-4)
  
 ## IA : 
 
@@ -77,6 +90,8 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Applying Deep Learning To Airbnb Search](https://arxiv.org/pdf/1810.09591.pdf)
  * [For E-Commerce Data Scientists: Lessons Learned Scraping 100 Billion Products Pages](https://blog.scrapinghub.com/web-scraping-at-scale-lessons-learned-scraping-100-billion-products-pages)
  * [Graph Data Structures for Beginners](https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/)
+ * [The Paxos Algorithm](https://www.youtube.com/watch?v=d7nAGI_NZPk)
+ * [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
  
  
 ## Développement : 
@@ -98,10 +113,21 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [The Doors Go Has Opened](https://medium.com/@arschles/the-doors-go-has-opened-a4b5d0f10ea7)
  * [go-keylogger](https://github.com/mtojek/go-keylogger/blob/master/README.md)
  * [From Prototype to Production: Lessons from Building and Scaling Reddit's Ad Serving Platform with Go](https://about.sourcegraph.com/go/gophercon-2018-from-prototype-to-production-lessons-from-building-and)
+ * [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go)
+ * [Pure-go library for cross-platform thread-safe local peer discovery using UDP multicast](https://github.com/schollz/peerdiscovery)
+ * [Go reading list](https://github.com/enocom/gopher-reading-list)
+ * [Writing Space Invaders with Go](https://sausheong.github.io/posts/space-invaders-with-go/)
+ * [System Tray App in GO](https://dev.to/osuka42/building-a-simple-system-tray-app-with-go-899)
+ * [GO GridFS](https://github.com/jameswei/go-gridfs-serve/blob/master/main.go)
  
 ### C
 
  * [Rob Pike - Notes on Programming in C](http://doc.cat-v.org/bell_labs/pikestyle)
+
+### PHP
+
+ * [Modern PHP Without a Framework](https://kevinsmith.io/modern-php-without-a-framework)
+ * [PHP to Go: How we boosted API performance by 8X](https://www.kairos.com/blog/php-to-go-how-we-boosted-api-performance-by-8x)
 
 ### JavasScript et Node.JS
 
@@ -116,8 +142,6 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [AJAX With Attributes](http://intercoolerjs.org/examples/index.html)
  * [Instant and elegant Markdown documents](http://strapdownjs.com/)
  
-
-
 ### Philisophie Dev && Culture : 
 
  * [Explaining Programming to 6 Years Old Kids](https://dev.to/tkaczanowski/explaining-programming-to-6-years-old-kids)
@@ -149,7 +173,20 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [The “Developer Experience” Bait-and-Switch](https://infrequently.org/2018/09/the-developer-experience-bait-and-switch/)
  * [Silicon Valley History](https://steveblank.com/secret-history/)
  * [Reverse Engineering Instruments’ File Format](http://jamie-wong.com/post/reverse-engineering-instruments-file-format/)
- 
+ * [The 640K memory limit of MS-DOS](https://www.xtof.info/blog/?p=985)
+ * [Is learning to code in middle age a fool’s errand or a committed act of digital citizenship?](https://www.1843magazine.com/features/code-to-joy)
+ * [Why is nearing completion so demotivating?](https://news.ycombinator.com/item?id=17138794)
+ * [JOHN CARMACK - Why do you drop what you are doing when Steve Jobs asks you](https://m.facebook.com/permalink.php?story_fbid=2146412825593223&id=100006735798590)
+ * [HISTORIQUE - bibliothèque numérique consacrée aux anciens magazines](https://www.abandonware-magazines.org/index.php)
+ * [HISTORIQUE - General Magic is a nostalgic film about the ‘90s startup that imagined the smartphone](https://www.theverge.com/2018/4/22/17233362/general-magic-movie-review-documentary-silicon-valley-tribeca-2018)
+ * [Pixar's Senior Scientist explains how math makes the movies and games we love](https://www.theverge.com/2013/3/7/4074956/pixar-senior-scientist-derose-explains-how-math-makes-movies-games)
+ * [Why I hate all articles about design patterns](http://www.smashcompany.com/technology/why-i-hate-all-articles-about-design-patterns)
+ * [21 years of income as a software engineer](https://amp.reddit.com/r/dataisbeautiful/comments/7zsfhz/21_years_of_income_as_a_software_engineer_in_san/)
+
+## Blockchain : 
+
+ * [Walmart Is Getting Suppliers to Put Food on the Blockchain](https://www.bloomberg.com/news/articles/2018-04-23/walmart-is-getting-suppliers-to-put-food-on-blockchain-to-track)
+ * [Blockchain in Go](https://github.com/Jeiwan/blockchain_go)
  
 ## Drogue && Santé : 
 
@@ -182,6 +219,10 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Psychology Explains the Hidden Reasons Gambling Hooks the Brain](https://www.inverse.com/article/48152-your-brain-on-gambling-addiction)
  * [The secret of love is just kindness](https://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
  * [The secrets of reilience](https://www.wsj.com/articles/the-secrets-of-resilience-1510329202)
+ * [Any resources to learn the fundamentals of critical thinking?](https://news.ycombinator.com/item?id=17272715)
+ * [Turning 40 soon – seeking personal and professional life advice](https://news.ycombinator.com/item?id=16950507)
+ * [The Crazy Framer : Build his own house](https://www.youtube.com/channel/UCtPhq1N-uNfUHiPDnwxqImg?app=desktop)
+ * [Why is hard to make friend after 30 years](https://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html?referer=)
  
 ## Entrepreunariat : 
 
@@ -209,13 +250,16 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Prendre sa retraite à 40 ans, un rêve? «Cette vie où il faut absolument acheter une grosse maison, ça ne me correspondait pas»](https://www.20minutes.fr/economie/2303335-20180709-prendre-retraite-40-ans-reve-vie-o-faut-absolument-acheter-grosse-maison-ca-correspondait)
  * [How can I make money when I am bored?](https://news.ycombinator.com/item?id=17315508)
  * [Developer burnout – how to rediscover the passion, or new career?](https://news.ycombinator.com/item?id=17274320)
- 
+ * [A ‘Cash Cow’ is on the Agenda](https://medium.com/@drewmccormack/a-cash-cow-is-on-the-agenda-138a11995595)
+ * [Apple shutted down our 30k/mo business. What now?](https://news.ycombinator.com/item?id=17131983)
+ * [La fable de la French Tech : «Tout vainqueur insolent à sa perte travaille»…](https://www.frenchweb.fr/la-fable-de-la-french-tech-tout-vainqueur-insolent-a-sa-perte-travaille/320194)
+ * [McDonald’s High-Tech Makeover Is Stressing Workers Out](https://www.bloomberg.com/news/articles/2018-03-13/worker-exodus-builds-at-mcdonald-s-as-mobile-app-sows-confusion)
  
 ## Projets : 
 
  * [High impact job board](https://80000hours.org/job-board/)
  * [Handling 1 Million Requests per Minute with Golang](https://medium.com/smsjunk/handling-1-million-requests-per-minute-with-golang-f70ac505fcaa)
- * 
+ * [**Programming Notes for Professionals books**](https://goalkicker.com/)
  
 ## Lecture && écriture : 
 
@@ -231,6 +275,7 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Que pensez-vous de l’école 42 de Xavier Niel ?](https://fr.quora.com/Que-pensez-vous-de-l%E2%80%99%C3%A9cole-42-de-Xavier-Niel)
  * [ORLM-282 : Les coulisses de l’École 42](https://www.youtube.com/watch?v=lIKvRIsmE3g&feature=share)
  * [The 'Overparenting' Crisis In School And At Home](https://www.npr.org/sections/ed/2018/07/24/628042168/the-over-parenting-crisis-in-school-and-at-home)
+ * [Mr. Rogers Had a Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/)
 
 ## Foutu monde numérique ! : 
 
@@ -264,7 +309,10 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Five Eyes’ Nations Quietly Demand Government Access to Encrypted Data](https://www.nytimes.com/2018/09/04/us/politics/government-access-encrypted-data.html)
  * [Who needs democracy when you have data?](https://www.technologyreview.com/s/611815/who-needs-democracy-when-you-have-data/)
  * [Digital Exile: How I Got Banned for Life from AirBnB](https://medium.com/@jacksoncunningham/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
- 
+ * [The Real Reason Apple and Google Want You to Use Your Phone Less](https://www.nirandfar.com/2018/06/google-apple-less-phone-use.html)
+ * [Google’s Plan To Make Tech Less Addictive](https://www.fastcompany.com/90171307/googles-plan-to-make-tech-less-addictive)
+ * [Towards a world without Facebook](https://techcrunch.com/2018/03/25/towards-a-world-without-facebook/)
+ * [Airline websites don’t care about your privacy: a case study on Emirates.com](https://medium.freecodecamp.org/how-airlines-dont-care-about-your-privacy-case-study-emirates-com-6271b3b8474b)
  
 ## Société, Capitalisme : 
 
@@ -280,8 +328,12 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [The Coders of Kentucky](https://www.nytimes.com/2018/09/21/opinion/sunday/silicon-valley-tech.html)
  * [Apple’s Tim Cook makes blistering attack on the ‘data industrial complex’](https://techcrunch.com/2018/10/24/apples-tim-cook-makes-blistering-attack-on-the-data-industrial-complex/)
  * [Eight Futures of Work: Scenarios and their Implications](https://www.weforum.org/whitepapers/eight-futures-of-work-scenarios-and-their-implications)
- 
+ * [The Rich Are Planning to Leave This Wretched Planet](https://www.nytimes.com/2018/06/09/style/axiom-space-travel.html)
+ * [What's behind rich people pretending to be self-made?](https://www.theguardian.com/us-news/2018/jan/29/rich-people-wealth-america)
+ * [The real Adam Smith](https://aeon.co/essays/we-should-look-closely-at-what-adam-smith-actually-believed)
+ * [Freud Was a Fraud: A Triumph of Pseudoscience](https://sciencebasedmedicine.org/freud-was-a-fraud-a-triumph-of-pseudoscience/)
  
  ## Gaming : 
 
  * [Esport: Au secours mon enfant veut devenir pro gamer](https://pro-gamer.fr/esport-au-secours-mon-enfant-veut-devenir-pro-gamer/)
+ * [The cost of games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
