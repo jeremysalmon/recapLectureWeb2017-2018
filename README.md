@@ -3,6 +3,14 @@
 En 2018 j'ai décidé de sauvegarder tous les articles que j'ai lus. Ce mois de février j'ai enfin le courage de transformer cette liste en version consultable par tout le monde.
 Peut-être que quelqu'un trouvera quelques liens interressants ...
 
+Pour info, j'utilise [Feedly](www.feedly.com) pour gérer mes flux RSS (sur Mac, iOS et Android ...)
+J'utilise [Google Keep](https://keep.google.com/) pour sauvegarder les articles lus.
+
+Il ne me manque qu'un chronomètre pour savoir combien de temps j'ai lu.
+
+Vu ma routine quotidienne de lecture le matin et en fin de journée, je pense passer 1h15 par jour à lire les articles du Web ... soit tout de même 456h l'année dernière (19 jours pleins ...)
+
+En faisant cette liste 2018, je me rend compte que celà fait quand même pas mal d'heures passées sur des lectures pour la majorité superficielles ... 2019 sera consacrée à plus de lecture "livres" et articles scientifiques. J'ai découvert récemment [Papers With Code](https://paperswithcode.com/) qui regroupe des articles universitaires et le code associé ... et celà fait mon bonheur ...
 
 ## Sécurité : 
 
