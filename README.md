@@ -41,7 +41,7 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
 ## Web : 
 
  * [Inside look at modern web browser (part 4)](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
- 
+ * [Internet protocols are changing](https://blog.apnic.net/2017/12/12/internet-protocols-changing/)
 
 ## PostgreSQL : 
 
@@ -92,7 +92,7 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Graph Data Structures for Beginners](https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/)
  * [The Paxos Algorithm](https://www.youtube.com/watch?v=d7nAGI_NZPk)
  * [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
- 
+ * [How to Read Mathematics](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
  
 ## Développement : 
 
@@ -182,6 +182,7 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Pixar's Senior Scientist explains how math makes the movies and games we love](https://www.theverge.com/2013/3/7/4074956/pixar-senior-scientist-derose-explains-how-math-makes-movies-games)
  * [Why I hate all articles about design patterns](http://www.smashcompany.com/technology/why-i-hate-all-articles-about-design-patterns)
  * [21 years of income as a software engineer](https://amp.reddit.com/r/dataisbeautiful/comments/7zsfhz/21_years_of_income_as_a_software_engineer_in_san/)
+ * [Why don’t software development methodologies work?](http://typicalprogrammer.com/why-dont-software-development-methodologies-work)
 
 ## Blockchain : 
 
@@ -267,6 +268,7 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Alan Kay's Reading List](http://www.squeakland.org/resources/books/readingList.jsp#cat570)
  * [Commodore The Inside Story](https://amigakit.amiga.store/product_info.php?products_id=12642)
  * [Your Personal Writing Coach](https://prowritingaid.com/)
+ * [Reading Information Aloud to Yourself Improves Memory](neurosciencenews.com/memory-reading-aloud-8084/)
 
 ## Education : 
 
@@ -276,6 +278,10 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [ORLM-282 : Les coulisses de l’École 42](https://www.youtube.com/watch?v=lIKvRIsmE3g&feature=share)
  * [The 'Overparenting' Crisis In School And At Home](https://www.npr.org/sections/ed/2018/07/24/628042168/the-over-parenting-crisis-in-school-and-at-home)
  * [Mr. Rogers Had a Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/)
+ * [Taking a second look at the learn-to-code craze](https://theconversation.com/taking-a-second-look-at-the-learn-to-code-craze-86597)
+ * [Why Social Media is Not Smart for Middle School Kids](https://www.psychologytoday.com/us/blog/mental-wealth/201703/why-social-media-is-not-smart-middle-school-kids)
+ * [Why Education Startups Do Not Succeed](https://avichal.com/2011/10/07/why-education-startups-do-not-succeed/)
+ * [Cursive Handwriting and Other Education Myths](nautil.us/issue/40/learning/cursive-handwriting-and-other-education-myths)
 
 ## Foutu monde numérique ! : 
 
@@ -313,6 +319,10 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Google’s Plan To Make Tech Less Addictive](https://www.fastcompany.com/90171307/googles-plan-to-make-tech-less-addictive)
  * [Towards a world without Facebook](https://techcrunch.com/2018/03/25/towards-a-world-without-facebook/)
  * [Airline websites don’t care about your privacy: a case study on Emirates.com](https://medium.freecodecamp.org/how-airlines-dont-care-about-your-privacy-case-study-emirates-com-6271b3b8474b)
+ * [The big stores that track your every online move](https://www.engadget.com/2017/11/24/big-stores-that-track-your-online-move/)
+ * [How Evil Is Tech?](https://www.nytimes.com/2017/11/20/opinion/how-evil-is-tech.html?referer=)
+ * [Google collects Android users’ locations even when location services are disabled](https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/)
+ * [Why I cancelled my ReactiveConf talk](https://medium.com/@peggyrayzis/why-i-cancelled-my-reactiveconf-talk-3a463bf14bd8)
  
 ## Société, Capitalisme : 
 
@@ -332,6 +342,8 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [What's behind rich people pretending to be self-made?](https://www.theguardian.com/us-news/2018/jan/29/rich-people-wealth-america)
  * [The real Adam Smith](https://aeon.co/essays/we-should-look-closely-at-what-adam-smith-actually-believed)
  * [Freud Was a Fraud: A Triumph of Pseudoscience](https://sciencebasedmedicine.org/freud-was-a-fraud-a-triumph-of-pseudoscience/)
+ * [Rescuing Economics from Neoliberalism](http://bostonreview.net/class-inequality/dani-rodrik-rescuing-economics-neoliberalism)
+ * [World Inequality Database](https://wid.world/world/#sptinc_p99p100_z/US;FR;DE;CN;ZA;GB/last/eu/k/p/yearly/s/false/4.8255/30/curve/false)
  
  ## Gaming : 
 
