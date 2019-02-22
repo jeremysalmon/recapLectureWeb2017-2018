@@ -21,6 +21,8 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Global scan - exposed .git repos](https://lynt.cz/blog/global-scan-exposed-git)
  * [Référentiels et Normes pour l'Audit de la Sécurité des SI ](https://www.slideshare.net/Alghajati/rfrentiels-et-normes-pour-laudit-de-la-scurit-des-si)
  * [Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)
+ * [What Does It Really Take To Track A Million Cell Phones?](https://sorsnce.com/2017/07/26/what-does-it-really-take-to-track-a-million-cell-phones/)
+ * [Security Checklist for Full Stack Web Developers — Part 1](https://blog.logrocket.com/security-for-fullstack-web-developers-part-1-a56340283f7c)
 
 ## Electronique : 
 
@@ -93,6 +95,7 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [The Paxos Algorithm](https://www.youtube.com/watch?v=d7nAGI_NZPk)
  * [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
  * [How to Read Mathematics](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
+ * [Latest news from Google AI](https://ai.googleblog.com/2017/08/google-at-icml-2017.html?m=1)
  
 ## Développement : 
 
@@ -119,6 +122,8 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Writing Space Invaders with Go](https://sausheong.github.io/posts/space-invaders-with-go/)
  * [System Tray App in GO](https://dev.to/osuka42/building-a-simple-system-tray-app-with-go-899)
  * [GO GridFS](https://github.com/jameswei/go-gridfs-serve/blob/master/main.go)
+ * [Gophercon 2017 Talks](https://github.com/gophercon/2017-talks)
+ * [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
  
 ### C
 
@@ -183,6 +188,10 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Why I hate all articles about design patterns](http://www.smashcompany.com/technology/why-i-hate-all-articles-about-design-patterns)
  * [21 years of income as a software engineer](https://amp.reddit.com/r/dataisbeautiful/comments/7zsfhz/21_years_of_income_as_a_software_engineer_in_san/)
  * [Why don’t software development methodologies work?](http://typicalprogrammer.com/why-dont-software-development-methodologies-work)
+ * [Know your Times Tables, but... do you know your "Hash Tables"?](https://zeroequalsfalse.press/posts/learn-hashtable/)
+ * [10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
+ * [**Teach Yourself Computer Science**](https://teachyourselfcs.com/)
+ * [Structure and Interpretation of Computer Programs Berkeley](http://wla.berkeley.edu/~cs61a/fa11/61a-python/content/www/index.html)
 
 ## Blockchain : 
 
@@ -202,6 +211,7 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * École: usine du conformisme
  * Entrer dans une dynamique
  * ORMs are like that unreasonable teenage crush. Luring you into sweet temptation giving you short sighted satisfaction. But then you grow up and mature and do what everyone told you to do in the first place. You choose your true love, your soul mate, your better half: SQL
+ * L artisan maîtrisé son outils. L ouvrier est maîtrisé par son outil
  
 ## Développement personnel : 
 
@@ -224,6 +234,8 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Turning 40 soon – seeking personal and professional life advice](https://news.ycombinator.com/item?id=16950507)
  * [The Crazy Framer : Build his own house](https://www.youtube.com/channel/UCtPhq1N-uNfUHiPDnwxqImg?app=desktop)
  * [Why is hard to make friend after 30 years](https://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html?referer=)
+ * [To Stay Married, Embrace Change](https://mobile.nytimes.com/2017/04/21/style/modern-love-to-stay-married-embrace-change.html?referer=)
+ * [Here's Einstein's Advice to His Son on How to Accelerate Learning](https://www.inc.com/jessica-stillman/how-to-learn-anything-faster-according-to-albert-einstein.html)
  
 ## Entrepreunariat : 
 
@@ -255,6 +267,14 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Apple shutted down our 30k/mo business. What now?](https://news.ycombinator.com/item?id=17131983)
  * [La fable de la French Tech : «Tout vainqueur insolent à sa perte travaille»…](https://www.frenchweb.fr/la-fable-de-la-french-tech-tout-vainqueur-insolent-a-sa-perte-travaille/320194)
  * [McDonald’s High-Tech Makeover Is Stressing Workers Out](https://www.bloomberg.com/news/articles/2018-03-13/worker-exodus-builds-at-mcdonald-s-as-mobile-app-sows-confusion)
+ * [On Starting a Software Business](http://stephaniehurlburt.com/blog/2017/6/24/on-starting-a-software-business)
+ * [Passive income ideas for solo developers?](https://news.ycombinator.com/item?id=14583312)
+ * [Blogging my Career Shift](https://kristenmthayer.wordpress.com/2015/12/13/blogging-my-career-shift/)
+ * [I don't know any good Ethereum developer that isn't a millionaire — There's a gold rush among developers to learn the coding language of money](https://blog.itnig.net/i-dont-know-any-good-ethereum-developer-that-isn-t-a-millionaire-there-s-a-gold-rush-among-6280d112e841)
+ * [How startups such as Dropbox, Airbnb, Groupon and others acquired their first users](https://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and/)
+ * [How do you find clients when you have no network and can only do remote?](https://news.ycombinator.com/item?id=14842684)
+ * [How we built our first full-stack JavaScript web app in three weeks](https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c)
+ * [Launching An App? Make App Store Optimization Your Foundation For Growth](https://www.smashingmagazine.com/2017/08/launch-app-store-optimization-growth/)
  
 ## Projets : 
 
@@ -269,6 +289,9 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Commodore The Inside Story](https://amigakit.amiga.store/product_info.php?products_id=12642)
  * [Your Personal Writing Coach](https://prowritingaid.com/)
  * [Reading Information Aloud to Yourself Improves Memory](neurosciencenews.com/memory-reading-aloud-8084/)
+ * [Publishers rejected me, but I went on to earn six-figures selling 1,000 books a day ](https://www.telegraph.co.uk/money/consumer-affairs/publishers-rejected-went-earn-six-figures-selling-1000-books/)
+ * [The death of reading is threatening the soul](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/07/21/the-death-of-reading-is-threatening-the-soul/?noredirect=on&utm_term=.c5beefb15195)
+ * [How to read](https://robertheaton.com/2018/06/25/how-to-read/)
 
 ## Education : 
 
@@ -282,6 +305,10 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Why Social Media is Not Smart for Middle School Kids](https://www.psychologytoday.com/us/blog/mental-wealth/201703/why-social-media-is-not-smart-middle-school-kids)
  * [Why Education Startups Do Not Succeed](https://avichal.com/2011/10/07/why-education-startups-do-not-succeed/)
  * [Cursive Handwriting and Other Education Myths](nautil.us/issue/40/learning/cursive-handwriting-and-other-education-myths)
+ * [Is American Childhood Creating an Authoritarian Society?](www.theamericanconservative.com/articles/will-american-childhood-create-an-authoritarian-society/)
+ * [Lack of ethics education for computer programmers shocks expert](https://www.stuff.co.nz/business/innovation/93629356/minimal-ethics-education-for-computer-programmers)
+ * [What I Learned From Researching Coding Bootcamps](https://medium.com/bits-and-behavior/what-i-learned-from-researching-coding-bootcamps-f594c15bd9e0)
+ * [Learning By Thinking](https://www.edge.org/conversation/tania_lombrozo-learning-by-thinking)
 
 ## Foutu monde numérique ! : 
 
@@ -323,6 +350,7 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [How Evil Is Tech?](https://www.nytimes.com/2017/11/20/opinion/how-evil-is-tech.html?referer=)
  * [Google collects Android users’ locations even when location services are disabled](https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/)
  * [Why I cancelled my ReactiveConf talk](https://medium.com/@peggyrayzis/why-i-cancelled-my-reactiveconf-talk-3a463bf14bd8)
+ * [The Algorithm That Makes Preschoolers Obsessed With YouTube](https://www.theatlantic.com/technology/archive/2017/07/what-youtube-reveals-about-the-toddler-mind/534765/)
  
 ## Société, Capitalisme : 
 
@@ -344,8 +372,28 @@ Peut-être que quelqu'un trouvera quelques liens interressants ...
  * [Freud Was a Fraud: A Triumph of Pseudoscience](https://sciencebasedmedicine.org/freud-was-a-fraud-a-triumph-of-pseudoscience/)
  * [Rescuing Economics from Neoliberalism](http://bostonreview.net/class-inequality/dani-rodrik-rescuing-economics-neoliberalism)
  * [World Inequality Database](https://wid.world/world/#sptinc_p99p100_z/US;FR;DE;CN;ZA;GB/last/eu/k/p/yearly/s/false/4.8255/30/curve/false)
+ * [The US government is removing scientific data from the Internet](https://arstechnica.com/video/2017/06/the-u-s-government-is-removing-scientific-data-from-the-internet/)
  
  ## Gaming : 
 
  * [Esport: Au secours mon enfant veut devenir pro gamer](https://pro-gamer.fr/esport-au-secours-mon-enfant-veut-devenir-pro-gamer/)
  * [The cost of games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
+ 
+ ## Cinema : 
+ 
+  * [This Is a Golden Age of Low-Budget Horror](https://www.wired.com/2017/08/geeks-guide-low-budget-horror/?mbid=social_fb)
+ 
+ ## Musique
+ 
+ * [Get started making music](https://learningmusic.ableton.com/index.html)
+ * [How I learned to write music in real time](https://omnisplore.wordpress.com/2017/11/21/how-i-learned-to-write-music-in-real-time/)
+ * [10 Chansons de Memes](https://www.youtube.com/watch?v=eMlQMWVq6dA)
+ * [The Cranberries - Zombie - EASY Piano Tutorial by PlutaX](https://www.youtube.com/watch?v=eDVmec4ERH0)
+ * [300 accords de piano](https://tous-au-piano.com/wp-content/uploads/2015/01/300-accords-de-piano-guide-et-dictionnaire-2015.pdf)
+ * [Conseil d'un professeur](http://waltercosand.com/CosandScores/Composers%20L-P/Marmontel,%20Antoine%20Francois/Art.Classique.et.Moderne.du.piano.pdf)
+ * [Jazz Handbook](https://www.jazzbooks.com/mm5/download/FQ-FRENCH.pdf)
+ * [Les accords de piano](http://www.lalecondepiano.com/astuces/liste-acc-test76.htm)
+ * [Parcours débutant](https://unpianiste.com/cours-de-piano-en-ligne/methode-de-piano#1487516113709-8ba84e94-a955)
+ * [How to Learn Piano With Technology](https://hackernoon.com/how-to-learn-piano-with-technology-923b6008cf7f)
+ * [The Making Of Everything Is Recorded's "Close But Not Quite" With Richard Russell](https://www.youtube.com/watch?v=yNgwwripq1c)
+ * [Making music using new sounds generated with machine learning](https://www.blog.google/technology/ai/making-music-using-new-sounds-generated-machine-learning/)
