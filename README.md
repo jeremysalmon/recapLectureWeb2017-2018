@@ -1,6 +1,6 @@
-# Mes bookmarks 2018
+# Lectures Web 2017 - 2018
 
-En 2018 j'ai décidé de sauvegarder tous les articles que j'ai lus. Ce mois de février j'ai enfin le courage de transformer cette liste en version consultable par tout le monde.
+En 2017 et 2018 j'ai décidé de sauvegarder tous les articles que j'ai lu. Ce mois de février 2019 j'ai enfin le courage de transformer cette liste en version consultable par tout le monde.
 Peut-être que quelqu'un trouvera quelques liens interressants ...
 
 Pour info, j'utilise [Feedly](www.feedly.com) pour gérer mes flux RSS (sur Mac, iOS et Android ...)
@@ -10,7 +10,9 @@ Il ne me manque qu'un chronomètre pour savoir combien de temps j'ai lu.
 
 Vu ma routine quotidienne de lecture le matin et en fin de journée, je pense passer 1h15 par jour à lire les articles du Web ... soit tout de même 456h l'année dernière (19 jours pleins ...)
 
-En faisant cette liste 2018, je me rend compte que celà fait quand même pas mal d'heures passées sur des lectures pour la majorité superficielles ... 2019 sera consacrée à plus de lecture "livres" et articles scientifiques. J'ai découvert récemment [Papers With Code](https://paperswithcode.com/) qui regroupe des articles universitaires et le code associé ... et celà fait mon bonheur ...
+En faisant cette liste 2017 - 2018, je me rend compte que celà fait quand même pas mal d'heures passées sur des lectures pour la majorité superficielles ... 2019 sera consacrée à plus de lecture "livres" et articles scientifiques. J'ai découvert récemment [Papers With Code](https://paperswithcode.com/) qui regroupe des articles universitaires et le code associé ... et celà fait mon bonheur ...
+
+
 
 ## Sécurité : 
 
@@ -34,6 +36,9 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
  * [fail2ban regex not matching](https://serverfault.com/questions/842943/fail2ban-regex-not-matching)
  * [How security flaws work: The buffer overflow](https://arstechnica.com/information-technology/2015/08/how-security-flaws-work-the-buffer-overflow/)
+ * [CORS](https://frontendian.co/cors)
+ * [Hacker101 is a free class for web security](https://github.com/Hacker0x01/hacker101)
+ * [No boundaries: Exfiltration of personal data by session-replay scripts](https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/)
 
 ## GDPR : 
 
@@ -57,6 +62,11 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Intro to NFC Payment Relay Attacks](https://salmg.net/2018/12/01/intro-to-nfc-payment-relay-attacks/)
  * [Makes Raspberry Pi professional](https://www.sferalabs.cc/strato-pi/)
  * [Mac Mini a distance (pas vraiment électronique mais bon ...) ](https://www.remotemac.io/about-us)
+ * [How Graphics Cards Work](https://www.extremetech.com/gaming/269335-how-graphics-cards-work)
+ * [HS : Writing a Game Boy emulator, Cinoop](https://cturt.github.io/cinoop.html)
+ * [HS : Emulator 101](http://www.emulator101.com/)
+ * [HS : Your Serverless Raspberry Pi cluster with Docker](https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/)
+ * [Cheap, Full-Duplex Software Defined Radio With The LimeSDR](https://hackaday.com/2017/09/22/cheap-full-duplex-software-defined-radio-with-the-limesdr/)
  
 ## Infrastructure : 
 
@@ -69,7 +79,13 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Introducing Functions as a Service (OpenFaaS)](https://blog.alexellis.io/introducing-functions-as-a-service/)
  * [Keep Calm and Carry On - Scaling Your Org with Microservices](https://bridgetkromhout.com/speaking/2017/srecon/)
  * [Why Dropbox decided to drop AWS and build its own infrastructure and network](https://techcrunch.com/2017/09/15/why-dropbox-decided-to-drop-aws-and-build-its-own-infrastructure-and-network/)
- 
+ * [Starting an ISP is really hard, don’t do it](https://www.slashgeek.net/2016/05/31/starting-isp-really-hard-dont/)
+ * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
+ * [The Transaction Costs of Tokenizing Everything](https://elaineou.com/2017/10/14/the-transaction-costs-of-tokenizing-everything/)
+ * [ServerlessConf 2017 Recap - NYC](https://serverless.com/blog/serverless-conf-2017-nyc-recap/)
+ * [Jeff Dean on Large-Scale Deep Learning at Google](http://highscalability.com/blog/2016/3/16/jeff-dean-on-large-scale-deep-learning-at-google.html)
+ * [Enabling The Vision of Ubiquitous Connectivity](http://longrange.cs.washington.edu/#abstract)
+ * [VIDEO : DevFest Nantes 2017 The great SOA migration](https://www.youtube.com/watch?v=O25xbCq_LFU)
 
 ## Web : 
 
@@ -77,6 +93,9 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Internet protocols are changing](https://blog.apnic.net/2017/12/12/internet-protocols-changing/)
  * [nginx configuration for a RESTful API](https://stackoverflow.com/questions/28094865/nginx-configuration-for-a-restful-api)
  * [The most essential list of resources for Front-End beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner/blob/master/README.md)
+ * [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
+ * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+ * [Untangling the WebRTC Flow](https://www.pkc.io/blog/untangling-the-webrtc-flow/)
 
 ## PostgreSQL : 
 
@@ -101,6 +120,13 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [SQL most readed articles 2017](https://tapoueh.org/blog/2018/01/a-year-in-review-most-read-articles-in-2017/#sql-and-business-logic)
  * [The case against ORMs](https://korban.net/posts/postgres/2017-11-02-the-case-against-orms/)
  * [Understanding caching in Postgres - An in-depth guide](https://madusudanan.com/blog/understanding-postgres-caching-in-depth/)
+ * [Range Types & Recursion: How to Search Availability with PostgreSQL](https://info.crunchydata.com/blog/range-types-recursion-how-to-search-availability-with-postgresql)
+ * [Real time + Postgres = ?](https://dev.to/alex_barashkov/real-time--postgres---2j6d)
+ * [Care To Know Clauses: All About SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, and LIMIT](https://severalnines.com/blog/care-know-clauses-all-about-select-where-group-having-order-and-limit)
+ * [pg-elastic - Proxy to use PostgreSQL via ElasticSearch protocol](https://asp437.github.io/posts/pg-elastic-prototype.html)
+ * [PostgreSQL HTTP Client](https://github.com/pramsey/pgsql-http)
+ * [YC Forum Troll](https://news.ycombinator.com/item?id=15440760)
+ * [pqstream is a program that streams changes out of a postgres database](https://github.com/tmc/pqstream?files=1)
 
 ## Linux : 
 
@@ -110,6 +136,9 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [**Interactive map of Linux kernel**](http://www.makelinux.net/kernel_map/)
  * [For the first time ever, Microsoft will distribute its own version of Linux](https://www.businessinsider.fr/us/microsoft-azure-sphere-is-powered-by-linux-2018-4)
  * [**Linux System Call Table**](http://thevivekpandey.github.io/posts/2017-09-25-linux-system-calls.html)
+ * [Mount Windows (CIFS) shares on Linux with credentials in a secure way](http://jensd.be/229/linux/mount-windows-cifs-shares-on-linux-with-credentials-in-a-secure-way)
+ * [HS : GIT](http://aosabook.org/en/git.html)
+ * [IPv4 route lookup on Linux](https://vincent.bernat.ch/en/blog/2017-ipv4-route-lookup-linux)
  
 ## IA : 
 
@@ -134,6 +163,14 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Latest news from Google AI](https://ai.googleblog.com/2017/08/google-at-icml-2017.html?m=1)
  * [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
  * [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md)
+ * [HR & AI:6 Changes AI Will Bring to Your HR Process](https://www.infomart-usa.com/linkedin.com/pulse/hr-ai-6-changes-bring-your-process-tammy-cohen-phr-shrm-cp/)
+ * [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
+ * [How to think in graphs: An illustrative introduction to Graph Theory and its applications](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
+ * [Easy-TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow/blob/master/README.rst)
+ * [Stewardships in the "Age of Algorithms"](https://journals.uic.edu/ojs/index.php/fm/article/view/8097/6583)
+ * [The Intuitive Guide to Data Structures And Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
+ * [The implausibility of intelligence explosion](https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec)
+ * [Neural Networks in JavaScript with deeplearn.js](https://www.robinwieruch.de/neural-networks-deeplearnjs-javascript/)
  
 ## Développement : 
 
@@ -168,6 +205,9 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [For Range Semantics](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
  * [Implementation of Martin Fowler's Recurring Events for Calendars](https://www.reddit.com/r/golang/comments/6yyd3j/implementation_of_martin_fowlers_recurring_events/)
  * [Data Structure and Algorithms](http://www.golangprograms.com/data-structure-and-algorithms.html)
+ * [How we use gRPC to build a client/server system in Go](https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2)
+ * [The ultimate guide to writing a go tool](https://www.reddit.com/r/golang/comments/704ske/the_ultimate_guide_to_writing_a_go_tool/)
+ * [Simplicity Debt Redux](https://dave.cheney.net/2017/06/18/simplicity-debt-redux)
  
 ### C
 
@@ -198,8 +238,13 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
  * [Node.js Express api development security checklist](https://smalldata.tech/blog/2017/05/19/nodejs-express-api-development-security-checklist)
  * [Securing API end points using Negroni, Gorilla Mux, and JWT Middleware](https://medium.com/@baijum/api-end-points-with-authentication-using-negroni-gorilla-mux-and-jwt-middleware-63a6dd8275cf)
+ * [Record, Replay, and Stub HTTP Interactions](https://netflix.github.io/pollyjs/#/README)
+ * [Build composable visualizations for the web with a data-first approach](https://www.charts.com/muze)
+ * [The Absolute Easiest Way to Debug Node.js — with VS Code](https://itnext.io/the-absolute-easiest-way-to-debug-node-js-with-vscode-2e02ef5b1bad)
+ * [DropIt is a File Uploader built with nodejs ](https://github.com/ThalKod/DropIt)
+ * [SIP.js is a Javascript library, maintained by OnSIP, for developers looking to build WebRTC applications using SIP standards](https://www.onsip.com/blog/sipjs-v0.8.0-supports-all-major-browsers-and-renegotiation)
  
-### Philisophie Dev && Culture : 
+### Philosophie Dev && Culture : 
 
  * [Explaining Programming to 6 Years Old Kids](https://dev.to/tkaczanowski/explaining-programming-to-6-years-old-kids)
  * [Return to the Source](http://www.cipht.net/2017/10/05/why-read-code.html)
@@ -257,12 +302,23 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [12 factors APP](https://12factor.net/)
  * [VIDEO: What every web developer should know - How browsers works](https://learnwebdevelopment.review/article/video-what-every-web-developer-should-know-how-browsers-works)
  * [Physicists find we’re not living in a computer simulation](https://cosmosmagazine.com/physics/physicists-find-we-re-not-living-in-a-computer-simulation)
+ * [HISTORIQUE : Historique des publication du Bell Lab](https://archive.org/search.php?query=bell%20system%20technical%20journal)
+ * [Decentralisation: the next big step for the world wide web ](https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle)
+ * [Things Nobody Told Me About Being a Software Engineer](https://anaulin.org/blog/things-nobody-told-me-about-being-a-software-engineer/)
+ * [Why I quit Amazon just 5 months after I’ve started](https://medium.com/@andrewgoldis/why-i-quit-amazon-just-5-months-after-ive-started-4ce872520f02)
+ * [Must-See Tech Talks for Every Programmer ](https://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/)
+ * [I am a mediocre developer ](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
+ * [Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+ * [A consortium workshop of high end techs reviewed postmortems to better understand how engineers cope with the complexity of anomalies](https://drive.google.com/file/d/0B7kFkt5WxLeDTml5cTFsWXFCb1U/view)
+ * [**Every Programmer Should Know**](https://github.com/mtdvio/every-programmer-should-know)
 
 ## Blockchain : 
 
  * [Walmart Is Getting Suppliers to Put Food on the Blockchain](https://www.bloomberg.com/news/articles/2018-04-23/walmart-is-getting-suppliers-to-put-food-on-blockchain-to-track)
  * [Blockchain in Go](https://github.com/Jeiwan/blockchain_go)
  * [Blockchain Basics ](https://www.sitepen.com/blog/blockchain-basics/)
+ * [Sixty free lectures from Princeton on bitcoin and cryptocurrencies](https://www.reddit.com/r/Bitcoin/comments/7il1sx/sixty_free_lectures_from_princeton_on_bitcoin_and/)
+ * [The Bitcoin Whales: 1,000 People Who Own 40 Percent of the Market](https://www.bloomberg.com/news/articles/2017-12-08/the-bitcoin-whales-1-000-people-who-own-40-percent-of-the-market)
  
 ## Drogue && Santé : 
 
@@ -270,6 +326,7 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Magnesium and the Brain: The Original Chill Pill](https://www.psychologytoday.com/intl/blog/evolutionary-psychiatry/201106/magnesium-and-the-brain-the-original-chill-pill)
  * [Ces légumes qui protègent du cancer](https://reporterre.net/Ces-legumes-qui-protegent-du-cancer)
  * [To Fix That Pain In Your Back, You Might Have To Change The Way You Sit](https://www.npr.org/sections/goatsandsoda/2018/08/13/636025077/to-fix-that-pain-in-your-back-you-might-have-to-change-the-way-you-sit)
+ * [Eating out increases levels of phthalates in the body, study finds ](https://www.theguardian.com/society/2018/mar/29/eating-out-increases-levels-of-phthalates-in-the-body-study-finds)
  
 ## Citations : 
 
@@ -307,6 +364,17 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis)
  * [Javascript fatigue](https://news.ycombinator.com/item?id=15109131)
  * [The incredible correlation between IQ & income](https://pumpkinperson.com/2016/02/11/the-incredible-correlation-between-iq-income/)
+ * [I'm bored, what do I do?](https://idiallo.com/blog/im-bored-what-do-i-do)
+ * [The four motivators](https://apenwarr.ca/log/20161213)
+ * [How to teach yourself hard things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/)
+ * [Rise, Grind and Ruin: The Dangerous Fetishization of ‘Hustle Porn’](https://melmagazine.com/en-us/story/rise-grind-and-ruin-the-dangerous-fetishization-of-hustle-porn)
+ * [Skill Stacking: A Practical Strategy To Achieve Career Success ](https://dariusforoux.com/skill-stacking/)
+ * [Excerpts from an Oral History Interview with Steve Jobs](http://americanhistory.si.edu/comphist/sj1.html#import)
+ * [The art and science of being charismatic](http://www.bbc.com/capital/story/20171027-the-art-and-science-of-being-charismatic)
+ * [What I would do if I was 18 now](https://levels.io/eighteen/)
+ * [THE BASIC LAWS OF HUMAN STUPIDITY](http://harmful.cat-v.org/people/basic-laws-of-human-stupidity/)
+ * [L'homme qui partage les tâches à la maison existe, voilà à quoi il ressemble](http://www.slate.fr/story/152504/hommes-partagent-reellement-taches-menageres)
+ * [	Getting close to 40, mid life crisis, depression, and finding release](https://news.ycombinator.com/item?id=17090776)
  
 ## Entrepreunariat : 
 
@@ -354,12 +422,27 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Digging Into a Solopreneur’s “Experimentation Stack”](https://medium.com/@soundstruck/digging-into-a-solopreneurs-experimentation-stack-889ce2278406)
  * [How Seth Godin Would Launch a Business With a $1,000 Budget](https://www.indiehackers.com/@Louis_Grenier/2cc8c6c79c)
  * [Never Give Up, Retry: How Software Should Deal with Failures](http://allyouneedisbackend.com/blog/2017/09/15/how-backend-software-should-retry-on-failures/)
+ * [Restaurant sans cuisinier ... c'est un robot](https://techcrunch.com/2018/06/21/creator-hamburger-robot/)
+ * [Learn how people are starting successful businesses. ](https://www.starterstory.com/)
+ * [How to Get Rich (without getting lucky)](https://threadreaderapp.com/thread/1002103360646823936.html)
+ * [How to Find Your Million-Dollar, One-Person Business Idea](https://www.forbes.com/sites/elainepofeldt/2017/05/27/how-to-find-your-million-dollar-business-idea-by-tapping-new-census-data/#4ef500b743d9)
+ * [New research shows successful founders are far older than the Valley stereotype](https://techcrunch.com/2018/04/10/new-research-shows-successful-founders-are-far-older-than-the-valley-stereotype/amp/)
+ * [How To Realistically Become A Millionaire](https://medium.com/personal-finance-series-by-richard-reis/how-to-become-a-millionaire-19b1421a50a1)
+ * [Comment Ouvrir une Boutique en Ligne et Réaliser des Ventes en Seulement 3 jours ](https://fr.shopify.com/blog/74423237-comment-ouvrir-une-boutique-en-ligne-et-realiser-des-ventes-en-seulement-3-jours-etude-de-cas)
+ * [How I Reached Over 100 Million Views on LinkedIn](https://www.bamf.media/linkedin-views/)
+ * [I thought I could ship at least 700 units to stay in business](https://www.gamasutra.com/blogs/ConstantinBacioiu/20171121/310012/Post_Mortem_I_thought_I_could_ship_at_least_700_units_to_stay_in_business.php)
+ * [A Restaurant Ruined My Life](https://torontolife.com/food/restaurant-ruined-life/)
+ * [Products by Indie Hackers](https://www.indiehackers.com/products)
+ * [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
+ * [The first 150 days of van life](https://ruby-on-wheels.github.io/blog/the-first-150-days-of-van-life/)
+ * [Why Trello Failed to Build a $1 Billion+ Business](https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e1579511d5dc)
  
 ## Projets : 
 
  * [High impact job board](https://80000hours.org/job-board/)
  * [Handling 1 Million Requests per Minute with Golang](https://medium.com/smsjunk/handling-1-million-requests-per-minute-with-golang-f70ac505fcaa)
  * [**Programming Notes for Professionals books**](https://goalkicker.com/)
+ * [Camp in Style with Volkswagen's New California XXL](https://www.countryliving.com/home-design/house-tours/news/a44775/volkswagen-california-xxl/)
  
 ## Lecture && écriture : 
 
@@ -371,6 +454,13 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Publishers rejected me, but I went on to earn six-figures selling 1,000 books a day ](https://www.telegraph.co.uk/money/consumer-affairs/publishers-rejected-went-earn-six-figures-selling-1000-books/)
  * [The death of reading is threatening the soul](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/07/21/the-death-of-reading-is-threatening-the-soul/?noredirect=on&utm_term=.c5beefb15195)
  * [How to read](https://robertheaton.com/2018/06/25/how-to-read/)
+ * [LIVRE : Honoring the Code](https://www.amazon.com/Honoring-Code-Conversations-Great-Designers/dp/1466567538)
+ * [Which books do you wish you'd read earlier in life?](https://news.ycombinator.com/item?id=16296200)
+ * [What are your favorite non-fiction books of all time?](https://news.ycombinator.com/item?id=17909694)
+ * [How to self-publish a book: A handy list of resources](https://blog.datascienceheroes.com/how-to-self-publish-a-book/amp/)
+ * [Screen Schooled: Two Veteran Teachers Expose How Technology Overuse Is Making Our Kids Dumber](https://www.amazon.com/Screen-Schooled-Veteran-Teachers-Technology/dp/1613739516/ref=sr_1_1?ie=UTF8&qid=1508437554&sr=8-1&keywords=screen+schooled)
+ * [Top 10 books to inspire CIOs and IT professionals in 2018](https://toptalkedbooks.com/articles/D05QRA/top-10-books-to-inspire-cios)
+ * [The woman who went to the library and read every book on the shelf](https://www.theguardian.com/books/2014/aug/16/phyllis-rose-the-shelf-library-book)
 
 ## Education : 
 
@@ -391,6 +481,13 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Programmers: Play with Minecraft's Inner Workings! ](https://minecraft.net/en-us/article/programmers-play-minecrafts-inner-workings)
  * [A place where makers ship live.](https://shipstreams.com/)
  * [Seymour: Live Programming for the Classroom](https://harc.github.io/seymour-live2017/)
+ * [Parents now spend twice as much time with their children as 50 years ago](https://www.economist.com/graphic-detail/2017/11/27/parents-now-spend-twice-as-much-time-with-their-children-as-50-years-ago)
+ * [L’écriture en miroir chez l’enfant de 5 à 6 ans](http://theconversation.com/lecriture-en-miroir-chez-lenfant-de-5-a-6-ans-85008)
+ * [10 Lessons of an MIT Education](http://www.math.tamu.edu/~cyan/Rota/mitless.html)
+ * [The enduring power of print for learning in a digital world](https://theconversation.com/the-enduring-power-of-print-for-learning-in-a-digital-world-84352)
+ * [200 universities just launched 600 free online courses. Here’s the full list.](https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/)
+ * [The Alarming Decline of Quality, Youth Playtime](https://houseoflawandorder.com/the-alarming-decline-of-quality-youth-playtime/)
+ * [The Tech Education Con](https://jacobinmag.com/2019/01/stem-coding-bootcamp-education-scam-philanthropy)
 
 ## Foutu monde numérique ! : 
 
@@ -442,6 +539,17 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [How Silicon Valley is erasing your individuality](https://www.washingtonpost.com/outlook/how-silicon-valley-is-erasing-your-individuality/2017/09/08/a100010a-937c-11e7-aace-04b862b2b3f3_story.html?utm_term=.38290fd207cf)
  * [The ‘internet of things’ is sending us back to the Middle Ages](http://theconversation.com/the-internet-of-things-is-sending-us-back-to-the-middle-ages-81435)
  * [Can Anyone Beat Jeff Bezos?](https://www.vanityfair.com/news/2017/10/new-establishment-list-disruption)
+ * [It’s time to address the elephant in the room: Influencers don’t really influence anything or anyone!](https://medium.com/21st-century-marketing/its-time-to-address-the-elephant-in-the-room-influencers-don-t-really-influence-anything-or-ee036b4abbb)
+ * [It’s time to address the elephant in the room: Influencers don’t really influence anything or anyone!](https://www.latimes.com/business/technology/la-fi-tn-microsoft-copyright-20180426-story.html)
+ * [Maybe Better If You Don’t Read This Story on Public WiFi](https://medium.com/matter/heres-why-public-wifi-is-a-public-health-hazard-dd5b8dcb55e6)
+ * [The Internet Will Be the Death of Us](https://www.nytimes.com/2018/10/30/opinion/internet-violence-hate-prejudice.html)
+ * [Are you aware? Comcast is injecting 400+ lines of JavaScript into web pages](https://forums.xfinity.com/t5/Customer-Service/Are-you-aware-Comcast-is-injecting-400-lines-of-JavaScript-into/td-p/3009551)
+ * [Tinder is reinforcing ancient mating habits, study finds](https://www.independent.co.uk/life-style/love-sex/tinder-mating-habits-reinforce-dating-app-sex-study-men-women-communicate-find-others-reproduce-a8008446.html)
+ * [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
+ * [Report: Uber app can secretly record your iPhone screen thanks to special ‘entitlement’](https://thenextweb.com/apple/2017/10/06/report-uber-can-spy-on-iphone-users-with-ios-11s-screen-recording-feature/#.tnw_Yawb1UpC)
+ * [First Evidence That Online Dating Is Changing the Nature of Society](https://www.technologyreview.com/s/609091/first-evidence-that-online-dating-is-changing-the-nature-of-society/)
+ * [It’s time to stop trusting Google search already](https://www.theverge.com/2017/11/10/16633574/stop-trusting-google-search-texas-shooting-twitter-misinformation)
+ * [5 predictions for what life will be like in 2030](https://www.weforum.org/agenda/2017/10/tech-life-predictions-for-2030/)
  
 ## Société, Capitalisme : 
 
@@ -465,17 +573,33 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [World Inequality Database](https://wid.world/world/#sptinc_p99p100_z/US;FR;DE;CN;ZA;GB/last/eu/k/p/yearly/s/false/4.8255/30/curve/false)
  * [The US government is removing scientific data from the Internet](https://arstechnica.com/video/2017/06/the-u-s-government-is-removing-scientific-data-from-the-internet/)
  * [What the Rich Won’t Tell You](https://www.nytimes.com/2017/09/08/opinion/sunday/what-the-rich-wont-tell-you.html?referer=)
+ * [Tech's ultimate success: Software developers are now more valuable to companies than money](https://www.cnbc.com/2018/09/06/companies-worry-more-about-access-to-software-developers-than-capital.html)
+ * [We’re starting to see the perils for startups that accept foreign cash](https://www.recode.net/2017/11/7/16617046/foreign-cash-billionaires-yuri-milner-alwaleed-startups)
+ * [Saudi Money Fuels the Tech Industry. It’s Time to Ask Why.](https://www.nytimes.com/2017/11/06/technology/unsavory-sources-money-fueling-tech.html?referer=)
+ * [The Curse of Econ 101](https://www.theatlantic.com/business/archive/2017/01/economism-and-the-minimum-wage/513155/)
+ * [What happened when Walmart left ](https://www.theguardian.com/us-news/2017/jul/09/what-happened-when-walmart-left#img-7)
+ * [La crème de la société marocaine, écrémée de civisme!](https://www.huffpostmaghreb.com/jaouad-mabrouki/la-creme-de-la-societe-marocaine-ecremee-de-civisme_b_18234162.html?utm_hp_ref=maroc)
+ * [Zucktown, USA](https://thebaffler.com/latest/zucktown-usa-tveten)
+ * [How the TSA Considered Looking at What Books People Have in Their Carry-on Bags](https://www.aclu.org/blog/privacy-technology/privacy-borders-and-checkpoints/how-tsa-considered-looking-what-books-people?redirect=blog/free-future/new-tsa-policy-may-lead-increased-scrutiny-reading-material)
+ * [Guerre dans les télécoms, les 4 couleurs du capitalisme France 5](https://www.youtube.com/watch?v=0ZSfpajxnIU)
+ * [The Rough Lives of Older Americans in ‘Nomadland’](https://www.nextavenue.org/older-americans-nomadland/)
+ * [Do civilisations collapse? ](https://aeon.co/essays/what-the-idea-of-civilisational-collapse-says-about-history)
+ * [I’m a Depression historian. The GOP tax bill is straight out of 1929.](https://www.washingtonpost.com/news/posteverything/wp/2017/11/30/im-a-depression-historian-the-gop-tax-bill-is-straight-out-of-1929/?sw_bypass=true&utm_term=.8c252bdb3061)
+ * [Too Many Americans Will Never Be Able to Retire](https://www.bloomberg.com/opinion/articles/2019-01-23/america-needs-more-young-workers-to-support-aging-population)
  
  ## Gaming : 
 
  * [Esport: Au secours mon enfant veut devenir pro gamer](https://pro-gamer.fr/esport-au-secours-mon-enfant-veut-devenir-pro-gamer/)
  * [The cost of games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
  * [The Video Game Software Wizardry of Id](https://spectrum.ieee.org/consumer-electronics/gaming/the-video-game-software-wizardry-of-id)
+ * [ArdaCraft](https://ardacraft.me/)
+ * [Vialis cyberattaquée, clients et Esport show impactés](https://www.dna.fr/faits-divers/2019/01/21/vialis-cyberattaquee-clients-et-esport-show-impactes)
  
  ## Cinema && Photos: 
  
   * [This Is a Golden Age of Low-Budget Horror](https://www.wired.com/2017/08/geeks-guide-low-budget-horror/?mbid=social_fb)
   * [55 Vintage Photos Of Your Parents Being Cooler Than You Will Ever Be](https://allthatsinteresting.com/cool-vintage-photos?utm_campaign=pdvibeFeeky&utm_source=facebook&utm_medium=social#15)
+  * [Beauty Shots Of Retro Machines](http://podstawczynski.com/retro/beauty_shots.html)
  
  ## Musique
  
@@ -491,3 +615,4 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [How to Learn Piano With Technology](https://hackernoon.com/how-to-learn-piano-with-technology-923b6008cf7f)
  * [The Making Of Everything Is Recorded's "Close But Not Quite" With Richard Russell](https://www.youtube.com/watch?v=yNgwwripq1c)
  * [Making music using new sounds generated with machine learning](https://www.blog.google/technology/ai/making-music-using-new-sounds-generated-machine-learning/)
+ * [Miles Davis is not Mozart: The brains of jazz and classical pianists work differently](https://m.medicalxpress.com/news/2018-01-miles-davis-mozart-brains-jazz.html)
