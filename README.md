@@ -1,7 +1,7 @@
 # Lectures Web 2017 - 2018
 
 En 2017 et 2018 j'ai décidé de sauvegarder tous les articles que j'ai lu. Ce mois de février 2019 j'ai enfin le courage de transformer cette liste en version consultable par tout le monde.
-Peut-être que quelqu'un trouvera quelques liens interressants ...
+Peut-être que quelqu'un trouvera quelques liens intéressants ...
 
 Pour info, j'utilise [Feedly](www.feedly.com) pour gérer mes flux RSS (sur Mac, iOS et Android ...)
 J'utilise [Google Keep](https://keep.google.com/) pour sauvegarder les articles lus.
@@ -10,7 +10,19 @@ Il ne me manque qu'un chronomètre pour savoir combien de temps j'ai lu.
 
 Vu ma routine quotidienne de lecture le matin et en fin de journée, je pense passer 1h15 par jour à lire les articles du Web ... soit tout de même 456h l'année dernière (19 jours pleins ...)
 
-En faisant cette liste 2017 - 2018, je me rend compte que celà fait quand même pas mal d'heures passées sur des lectures pour la majorité superficielles ... 2019 sera consacrée à plus de lecture "livres" et articles scientifiques. J'ai découvert récemment [Papers With Code](https://paperswithcode.com/) qui regroupe des articles universitaires et le code associé ... et celà fait mon bonheur ...
+En faisant cette liste 2017 - 2018, je me rends compte que cela fait quand même pas mal d'heures passées sur des lectures pour la majorité superficielle ... 
+
+Le problème est que pour la majorité de ces écrits, nous sommes dans une entrée en matière, informations généralistes ou bien encore ...
+Je me rends compte que lire tout cela c'est plutôt du "data-porn", une gratification immédiate à lire en se pensant immédiatement "connaisseur" du domaine ... Dans la majorité des cas, pour les articles techniques par exemple, je n'applique pas ce que j'ai lu, juste une lecture passive qui laisse peu de traces dans le registre des compétences.
+
+2019 sera consacrée à plus de lectures analysant en profondeur (livres spécialisés, articles scientifiques, thèses, analyse de codes). J'ai découvert récemment [Papers With Code](https://paperswithcode.com/) qui regroupe des articles universitaires et le code associé ...
+
+Il semble également important de se "focaliser" sur quelques sujets plutôt que de céder à la tentation facile de picorer un peu partout ...
+
+Il ne reste plus qu'à sélectionner les sujets paraissant les plus "prometteurs"
+
+
+
 
 
 
