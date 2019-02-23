@@ -33,6 +33,7 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Security Checklist for Full Stack Web Developers — Part 1](https://blog.logrocket.com/security-for-fullstack-web-developers-part-1-a56340283f7c)
  * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
  * [fail2ban regex not matching](https://serverfault.com/questions/842943/fail2ban-regex-not-matching)
+ * [How security flaws work: The buffer overflow](https://arstechnica.com/information-technology/2015/08/how-security-flaws-work-the-buffer-overflow/)
 
 ## GDPR : 
 
@@ -48,6 +49,7 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [GDPR practical info session for development ](https://fr.slideshare.net/tomppaj/gdpr-practical-info-session-for-development)
  * [Apache Kafka and GDPR Compliance](https://www.landoop.com/blog/2017/12/apache-kafka-gdpr-compliance/)
  * [GDPR – A Practical Guide For Developers](https://techblog.bozho.net/gdpr-practical-guide-developers/)
+ * [https://blog.everlaw.com/2018/03/05/gdpr-compliance-preparation-articles-30-32-35/](https://blog.everlaw.com/2018/03/05/gdpr-compliance-preparation-articles-30-32-35/)
 
 ## Electronique : 
 
@@ -65,6 +67,8 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/)
  * [WSO2 Identity Server ~ The Inside Story](https://medium.com/@WSO2/wso2-identity-server-the-inside-story-e842b363e6b9)
  * [Introducing Functions as a Service (OpenFaaS)](https://blog.alexellis.io/introducing-functions-as-a-service/)
+ * [Keep Calm and Carry On - Scaling Your Org with Microservices](https://bridgetkromhout.com/speaking/2017/srecon/)
+ * [Why Dropbox decided to drop AWS and build its own infrastructure and network](https://techcrunch.com/2017/09/15/why-dropbox-decided-to-drop-aws-and-build-its-own-infrastructure-and-network/)
  
 
 ## Web : 
@@ -105,6 +109,7 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
  * [**Interactive map of Linux kernel**](http://www.makelinux.net/kernel_map/)
  * [For the first time ever, Microsoft will distribute its own version of Linux](https://www.businessinsider.fr/us/microsoft-azure-sphere-is-powered-by-linux-2018-4)
+ * [**Linux System Call Table**](http://thevivekpandey.github.io/posts/2017-09-25-linux-system-calls.html)
  
 ## IA : 
 
@@ -162,6 +167,7 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Wich HTTP Headers should I Include in my API](https://amp.reddit.com/r/golang/comments/7yctil/which_http_headers_should_i_include_in_my_api/)
  * [For Range Semantics](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
  * [Implementation of Martin Fowler's Recurring Events for Calendars](https://www.reddit.com/r/golang/comments/6yyd3j/implementation_of_martin_fowlers_recurring_events/)
+ * [Data Structure and Algorithms](http://www.golangprograms.com/data-structure-and-algorithms.html)
  
 ### C
 
@@ -174,6 +180,8 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [PHP: a fractal of bad design ](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
  * [The global PHP community continues to toxify itself, and we need to halt it for the sake of our peers](https://medium.com/@nealio82/the-global-php-community-continues-to-toxify-itself-and-we-need-to-halt-it-for-the-sake-of-our-eabecd21a365)
  * [Best way to sync with Google Calendar, Exchange etc](https://www.reddit.com/r/PHP/comments/6yvkn2/best_way_to_sync_with_google_calendar_exchange_etc/)
+ * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
+ 
 
 ### JavasScript et Node.JS
 
@@ -188,6 +196,8 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [AJAX With Attributes](http://intercoolerjs.org/examples/index.html)
  * [Instant and elegant Markdown documents](http://strapdownjs.com/)
  * [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+ * [Node.js Express api development security checklist](https://smalldata.tech/blog/2017/05/19/nodejs-express-api-development-security-checklist)
+ * [Securing API end points using Negroni, Gorilla Mux, and JWT Middleware](https://medium.com/@baijum/api-end-points-with-authentication-using-negroni-gorilla-mux-and-jwt-middleware-63a6dd8275cf)
  
 ### Philisophie Dev && Culture : 
 
@@ -240,6 +250,13 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [My 20-Year Experience of Software Development Methodologies](https://zwischenzugs.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/)
  * [the software engineering notebook](https://winterflower.github.io/2017/08/17/software-engineering-notebook/)
  * [Why can't the IT industry deliver large, faultless projects quickly as in other industries?](https://softwareengineering.stackexchange.com/questions/158640/why-cant-the-it-industry-deliver-large-faultless-projects-quickly-as-in-other)
+ * [How I failed to replicate an $86 million project in 1 line of code](https://medium.com/@ryanfb/how-i-failed-to-replicate-an-86-million-project-in-1-line-of-code-615048a1f9d0)
+ * [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
+ * [Gaphorisms: Guerrilla Aphorisms](http://www.perfdynamics.com/Manifesto/gcaprules.html#tth_sEc1.28)
+ * [Tim O'Reilly's "WTF: What’s the Future & Why It’s Up to Us”: tech history & survival roadmap](https://www.youtube.com/watch?v=qhWzoBz3nck)
+ * [12 factors APP](https://12factor.net/)
+ * [VIDEO: What every web developer should know - How browsers works](https://learnwebdevelopment.review/article/video-what-every-web-developer-should-know-how-browsers-works)
+ * [Physicists find we’re not living in a computer simulation](https://cosmosmagazine.com/physics/physicists-find-we-re-not-living-in-a-computer-simulation)
 
 ## Blockchain : 
 
@@ -286,6 +303,10 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [To Stay Married, Embrace Change](https://mobile.nytimes.com/2017/04/21/style/modern-love-to-stay-married-embrace-change.html?referer=)
  * [Here's Einstein's Advice to His Son on How to Accelerate Learning](https://www.inc.com/jessica-stillman/how-to-learn-anything-faster-according-to-albert-einstein.html)
  * [Unknown Unknowns: The Problem of Hypocognition](https://blogs.scientificamerican.com/observations/unknown-unknowns-the-problem-of-hypocognition/)
+ * [Beyond peace and quiet ](https://www.theguardian.com/lifeandstyle/2008/nov/08/sara-maitland-silence-addiction)
+ * [Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis)
+ * [Javascript fatigue](https://news.ycombinator.com/item?id=15109131)
+ * [The incredible correlation between IQ & income](https://pumpkinperson.com/2016/02/11/the-incredible-correlation-between-iq-income/)
  
 ## Entrepreunariat : 
 
@@ -331,6 +352,8 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [How we Bootstrapped our SaaS Startup to Ramen Profitability](https://canny.io/blog/saas-startup-ramen-profitability/)
  * [The MVP Paradox](https://www.indiehackers.com/@Maitrikkataria/88a239cf78)
  * [Digging Into a Solopreneur’s “Experimentation Stack”](https://medium.com/@soundstruck/digging-into-a-solopreneurs-experimentation-stack-889ce2278406)
+ * [How Seth Godin Would Launch a Business With a $1,000 Budget](https://www.indiehackers.com/@Louis_Grenier/2cc8c6c79c)
+ * [Never Give Up, Retry: How Software Should Deal with Failures](http://allyouneedisbackend.com/blog/2017/09/15/how-backend-software-should-retry-on-failures/)
  
 ## Projets : 
 
@@ -415,6 +438,10 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [The problem isn’t just Cambridge Analytica or Facebook – it’s “surveillance capitalism” ](https://www.opendemocracy.net/uk/jennifer-cobbe/problem-isn-t-just-cambridge-analytica-or-even-facebook-it-s-surveillance-capitali)
  * [Silicon Valley's fault lines are exposed](https://money.cnn.com/technology/divided-we-code/index.html#/?page=divided-we-code)
  * [Coders of the world, unite: can Silicon Valley workers curb the power of Big Tech?](https://www.theguardian.com/news/2017/oct/31/coders-of-the-world-unite-can-silicon-valley-workers-curb-the-power-of-big-tech)
+ * [Amazon Is Trying to Control the Underlying Infrastructure of Our Economy](https://motherboard.vice.com/en_us/article/7xpgvx/amazons-is-trying-to-control-the-underlying-infrastructure-of-our-economy)
+ * [How Silicon Valley is erasing your individuality](https://www.washingtonpost.com/outlook/how-silicon-valley-is-erasing-your-individuality/2017/09/08/a100010a-937c-11e7-aace-04b862b2b3f3_story.html?utm_term=.38290fd207cf)
+ * [The ‘internet of things’ is sending us back to the Middle Ages](http://theconversation.com/the-internet-of-things-is-sending-us-back-to-the-middle-ages-81435)
+ * [Can Anyone Beat Jeff Bezos?](https://www.vanityfair.com/news/2017/10/new-establishment-list-disruption)
  
 ## Société, Capitalisme : 
 
@@ -437,11 +464,13 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Rescuing Economics from Neoliberalism](http://bostonreview.net/class-inequality/dani-rodrik-rescuing-economics-neoliberalism)
  * [World Inequality Database](https://wid.world/world/#sptinc_p99p100_z/US;FR;DE;CN;ZA;GB/last/eu/k/p/yearly/s/false/4.8255/30/curve/false)
  * [The US government is removing scientific data from the Internet](https://arstechnica.com/video/2017/06/the-u-s-government-is-removing-scientific-data-from-the-internet/)
+ * [What the Rich Won’t Tell You](https://www.nytimes.com/2017/09/08/opinion/sunday/what-the-rich-wont-tell-you.html?referer=)
  
  ## Gaming : 
 
  * [Esport: Au secours mon enfant veut devenir pro gamer](https://pro-gamer.fr/esport-au-secours-mon-enfant-veut-devenir-pro-gamer/)
  * [The cost of games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
+ * [The Video Game Software Wizardry of Id](https://spectrum.ieee.org/consumer-electronics/gaming/the-video-game-software-wizardry-of-id)
  
  ## Cinema && Photos: 
  
