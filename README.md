@@ -31,6 +31,23 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Session Management Cheat Sheet](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)
  * [What Does It Really Take To Track A Million Cell Phones?](https://sorsnce.com/2017/07/26/what-does-it-really-take-to-track-a-million-cell-phones/)
  * [Security Checklist for Full Stack Web Developers — Part 1](https://blog.logrocket.com/security-for-fullstack-web-developers-part-1-a56340283f7c)
+ * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
+ * [fail2ban regex not matching](https://serverfault.com/questions/842943/fail2ban-regex-not-matching)
+
+## GDPR : 
+
+ * [The GDPR Compliance Checklist](https://gdprchecklist.io/)
+ * [GDPR Hysteria](https://jacquesmattheij.com/gdpr-hysteria/)
+ * [GDPR Transparency and Consent Framework](https://github.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework/blob/master/README.md)
+ * [2018 reform of EU data protection rules](https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en)
+ * [CNIL : La prospection commerciale par courrier électronique](https://www.cnil.fr/fr/la-prospection-commerciale-par-courrier-electronique)
+ * [No one’s ready for GDPR ](https://www.theverge.com/2018/5/22/17378688/gdpr-general-data-protection-regulation-eu)
+ * [Le non-respect des nouveautés du RGPD ne donnera pas lieu à des sanctions les premiers mois](https://www.journaldunet.com/ebusiness/le-net/1209519-jean-lessi-cnil-rgpd/)
+ * [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
+ * [GDPR and Google Analytics](https://adactio.com/journal/13364)
+ * [GDPR practical info session for development ](https://fr.slideshare.net/tomppaj/gdpr-practical-info-session-for-development)
+ * [Apache Kafka and GDPR Compliance](https://www.landoop.com/blog/2017/12/apache-kafka-gdpr-compliance/)
+ * [GDPR – A Practical Guide For Developers](https://techblog.bozho.net/gdpr-practical-guide-developers/)
 
 ## Electronique : 
 
@@ -46,12 +63,16 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC](https://blog.discordapp.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429)
  * [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
  * [Distributed architecture concepts I learned while building a large payments system](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/)
+ * [WSO2 Identity Server ~ The Inside Story](https://medium.com/@WSO2/wso2-identity-server-the-inside-story-e842b363e6b9)
+ * [Introducing Functions as a Service (OpenFaaS)](https://blog.alexellis.io/introducing-functions-as-a-service/)
  
 
 ## Web : 
 
  * [Inside look at modern web browser (part 4)](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
  * [Internet protocols are changing](https://blog.apnic.net/2017/12/12/internet-protocols-changing/)
+ * [nginx configuration for a RESTful API](https://stackoverflow.com/questions/28094865/nginx-configuration-for-a-restful-api)
+ * [The most essential list of resources for Front-End beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner/blob/master/README.md)
 
 ## PostgreSQL : 
 
@@ -74,6 +95,8 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Standard SQL features where PostgreSQL beats its competitors ](https://www.slideshare.net/mobile/MarkusWinand/standard-sql-features-where-postgresql-beats-its-competitors)
  * [Postgres Hidden Gems](http://www.craigkerstiens.com/2018/01/31/postgres-hidden-gems/)
  * [SQL most readed articles 2017](https://tapoueh.org/blog/2018/01/a-year-in-review-most-read-articles-in-2017/#sql-and-business-logic)
+ * [The case against ORMs](https://korban.net/posts/postgres/2017-11-02-the-case-against-orms/)
+ * [Understanding caching in Postgres - An in-depth guide](https://madusudanan.com/blog/understanding-postgres-caching-in-depth/)
 
 ## Linux : 
 
@@ -104,6 +127,8 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
  * [How to Read Mathematics](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
  * [Latest news from Google AI](https://ai.googleblog.com/2017/08/google-at-icml-2017.html?m=1)
+ * [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+ * [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md)
  
 ## Développement : 
 
@@ -132,6 +157,11 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [GO GridFS](https://github.com/jameswei/go-gridfs-serve/blob/master/main.go)
  * [Gophercon 2017 Talks](https://github.com/gophercon/2017-talks)
  * [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
+ * [Writing A Compiler In Go](https://compilerbook.com/?live=tomorrow)
+ * [Creating an iCal feed with Go](https://zupzup.org/go-example-ical/)
+ * [Wich HTTP Headers should I Include in my API](https://amp.reddit.com/r/golang/comments/7yctil/which_http_headers_should_i_include_in_my_api/)
+ * [For Range Semantics](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
+ * [Implementation of Martin Fowler's Recurring Events for Calendars](https://www.reddit.com/r/golang/comments/6yyd3j/implementation_of_martin_fowlers_recurring_events/)
  
 ### C
 
@@ -141,6 +171,9 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
 
  * [Modern PHP Without a Framework](https://kevinsmith.io/modern-php-without-a-framework)
  * [PHP to Go: How we boosted API performance by 8X](https://www.kairos.com/blog/php-to-go-how-we-boosted-api-performance-by-8x)
+ * [PHP: a fractal of bad design ](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
+ * [The global PHP community continues to toxify itself, and we need to halt it for the sake of our peers](https://medium.com/@nealio82/the-global-php-community-continues-to-toxify-itself-and-we-need-to-halt-it-for-the-sake-of-our-eabecd21a365)
+ * [Best way to sync with Google Calendar, Exchange etc](https://www.reddit.com/r/PHP/comments/6yvkn2/best_way_to_sync_with_google_calendar_exchange_etc/)
 
 ### JavasScript et Node.JS
 
@@ -154,6 +187,7 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Zero-day in popular jQuery plugin actively exploited for at least three years](https://www.zdnet.com/article/zero-day-in-popular-jquery-plugin-actively-exploited-for-at-least-three-years/)
  * [AJAX With Attributes](http://intercoolerjs.org/examples/index.html)
  * [Instant and elegant Markdown documents](http://strapdownjs.com/)
+ * [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
  
 ### Philisophie Dev && Culture : 
 
@@ -200,11 +234,18 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
  * [**Teach Yourself Computer Science**](https://teachyourselfcs.com/)
  * [Structure and Interpretation of Computer Programs Berkeley](http://wla.berkeley.edu/~cs61a/fa11/61a-python/content/www/index.html)
+ * [Video Games Are Destroying the People Who Make Them](https://www.nytimes.com/2017/10/25/opinion/work-culture-video-games-crunch.html?referer=)
+ * [How Unreal Renders a Frame](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
+ * [The Uncanny Resurrection of Dungeons & Dragons](https://www.newyorker.com/culture/cultural-comment/the-uncanny-resurrection-of-dungeons-and-dragons)
+ * [My 20-Year Experience of Software Development Methodologies](https://zwischenzugs.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/)
+ * [the software engineering notebook](https://winterflower.github.io/2017/08/17/software-engineering-notebook/)
+ * [Why can't the IT industry deliver large, faultless projects quickly as in other industries?](https://softwareengineering.stackexchange.com/questions/158640/why-cant-the-it-industry-deliver-large-faultless-projects-quickly-as-in-other)
 
 ## Blockchain : 
 
  * [Walmart Is Getting Suppliers to Put Food on the Blockchain](https://www.bloomberg.com/news/articles/2018-04-23/walmart-is-getting-suppliers-to-put-food-on-blockchain-to-track)
  * [Blockchain in Go](https://github.com/Jeiwan/blockchain_go)
+ * [Blockchain Basics ](https://www.sitepen.com/blog/blockchain-basics/)
  
 ## Drogue && Santé : 
 
@@ -244,6 +285,7 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Why is hard to make friend after 30 years](https://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html?referer=)
  * [To Stay Married, Embrace Change](https://mobile.nytimes.com/2017/04/21/style/modern-love-to-stay-married-embrace-change.html?referer=)
  * [Here's Einstein's Advice to His Son on How to Accelerate Learning](https://www.inc.com/jessica-stillman/how-to-learn-anything-faster-according-to-albert-einstein.html)
+ * [Unknown Unknowns: The Problem of Hypocognition](https://blogs.scientificamerican.com/observations/unknown-unknowns-the-problem-of-hypocognition/)
  
 ## Entrepreunariat : 
 
@@ -283,6 +325,12 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [How do you find clients when you have no network and can only do remote?](https://news.ycombinator.com/item?id=14842684)
  * [How we built our first full-stack JavaScript web app in three weeks](https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c)
  * [Launching An App? Make App Store Optimization Your Foundation For Growth](https://www.smashingmagazine.com/2017/08/launch-app-store-optimization-growth/)
+ * [How I Make $2,000 a Month from One Medium Article](https://hackernoon.com/how-to-monetize-a-medium-article-b4c1aeb7fdae)
+ * [The high-risk, high-reward world of selling stuff on Amazon](https://edition.cnn.com/2018/10/09/tech/amazon-sellers-marketplace/index.html)
+ * [Invisible Manipulation: 10 ways our data is being used against us](https://privacyinternational.org/feature/1064/invisible-manipulation-10-ways-our-data-being-used-against-us)
+ * [How we Bootstrapped our SaaS Startup to Ramen Profitability](https://canny.io/blog/saas-startup-ramen-profitability/)
+ * [The MVP Paradox](https://www.indiehackers.com/@Maitrikkataria/88a239cf78)
+ * [Digging Into a Solopreneur’s “Experimentation Stack”](https://medium.com/@soundstruck/digging-into-a-solopreneurs-experimentation-stack-889ce2278406)
  
 ## Projets : 
 
@@ -317,6 +365,9 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Lack of ethics education for computer programmers shocks expert](https://www.stuff.co.nz/business/innovation/93629356/minimal-ethics-education-for-computer-programmers)
  * [What I Learned From Researching Coding Bootcamps](https://medium.com/bits-and-behavior/what-i-learned-from-researching-coding-bootcamps-f594c15bd9e0)
  * [Learning By Thinking](https://www.edge.org/conversation/tania_lombrozo-learning-by-thinking)
+ * [Programmers: Play with Minecraft's Inner Workings! ](https://minecraft.net/en-us/article/programmers-play-minecrafts-inner-workings)
+ * [A place where makers ship live.](https://shipstreams.com/)
+ * [Seymour: Live Programming for the Classroom](https://harc.github.io/seymour-live2017/)
 
 ## Foutu monde numérique ! : 
 
@@ -359,6 +410,11 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Google collects Android users’ locations even when location services are disabled](https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/)
  * [Why I cancelled my ReactiveConf talk](https://medium.com/@peggyrayzis/why-i-cancelled-my-reactiveconf-talk-3a463bf14bd8)
  * [The Algorithm That Makes Preschoolers Obsessed With YouTube](https://www.theatlantic.com/technology/archive/2017/07/what-youtube-reveals-about-the-toddler-mind/534765/)
+ * [The Coders Programming Themselves Out of a Job](https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/)
+ * [The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies?srnd=premium)
+ * [The problem isn’t just Cambridge Analytica or Facebook – it’s “surveillance capitalism” ](https://www.opendemocracy.net/uk/jennifer-cobbe/problem-isn-t-just-cambridge-analytica-or-even-facebook-it-s-surveillance-capitali)
+ * [Silicon Valley's fault lines are exposed](https://money.cnn.com/technology/divided-we-code/index.html#/?page=divided-we-code)
+ * [Coders of the world, unite: can Silicon Valley workers curb the power of Big Tech?](https://www.theguardian.com/news/2017/oct/31/coders-of-the-world-unite-can-silicon-valley-workers-curb-the-power-of-big-tech)
  
 ## Société, Capitalisme : 
 
@@ -387,9 +443,10 @@ En faisant cette liste 2018, je me rend compte que celà fait quand même pas ma
  * [Esport: Au secours mon enfant veut devenir pro gamer](https://pro-gamer.fr/esport-au-secours-mon-enfant-veut-devenir-pro-gamer/)
  * [The cost of games](https://www.raphkoster.com/2018/01/17/the-cost-of-games/)
  
- ## Cinema : 
+ ## Cinema && Photos: 
  
   * [This Is a Golden Age of Low-Budget Horror](https://www.wired.com/2017/08/geeks-guide-low-budget-horror/?mbid=social_fb)
+  * [55 Vintage Photos Of Your Parents Being Cooler Than You Will Ever Be](https://allthatsinteresting.com/cool-vintage-photos?utm_campaign=pdvibeFeeky&utm_source=facebook&utm_medium=social#15)
  
  ## Musique
  
